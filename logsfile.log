@@ -1,0 +1,57 @@
+
+2022-04-09 23:02:06  [DriverFactory] (main:) Setting browser value chrome
+2022-04-09 23:02:10  [DriverFactory] (main:) Setting browser value
+2022-04-09 23:02:11  [BaseTest] (main:) Title is Google
+2022-04-09 23:02:21  [BaseTest] (main:) Closing the browser
+2022-04-09 23:02:21  [BaseTest] (main:) Browser is closed successfully
+2022-04-09 23:02:21  [DriverFactory] (main:) Setting browser value chrome
+2022-04-09 23:02:23  [DriverFactory] (main:) Setting browser value
+2022-04-09 23:02:27  [BaseTest] (main:) Closing the browser
+2022-04-09 23:02:27  [BaseTest] (main:) Browser is closed successfully
+2022-04-09 23:03:56  [DriverFactory] (main:) Setting browser value chrome
+2022-04-09 23:03:59  [DriverFactory] (main:) Setting browser value
+2022-04-09 23:04:01  [BaseTest] (main:) Title is Google
+2022-04-09 23:04:11  [BaseTest] (main:) Closing the browser
+2022-04-09 23:04:11  [BaseTest] (main:) Browser is closed successfully
+2022-04-09 23:04:11  [DriverFactory] (main:) Setting browser value chrome
+2022-04-09 23:04:13  [DriverFactory] (main:) Setting browser value
+2022-04-09 23:04:17  [BaseTest] (main:) Closing the browser
+2022-04-09 23:04:17  [BaseTest] (main:) Browser is closed successfully
+2022-04-09 23:04:47  [DriverFactory] (main:) Setting browser value chrome
+2022-04-09 23:04:51  [DriverFactory] (main:) Setting browser value
+2022-04-09 23:04:52  [BaseTest] (main:) Title is Google
+2022-04-09 23:05:02  [BaseTest] (main:) Closing the browser
+2022-04-09 23:05:02  [BaseTest] (main:) Browser is closed successfully
+2022-04-09 23:05:02  [DriverFactory] (main:) Setting browser value chrome
+2022-04-09 23:05:04  [DriverFactory] (main:) Setting browser value
+2022-04-09 23:05:08  [BaseTest] (main:) Closing the browser
+2022-04-09 23:05:08  [BaseTest] (main:) Browser is closed successfully
+2022-04-09 23:06:44  [DriverFactory] (main:) Setting browser value chrome
+2022-04-09 23:06:48  [DriverFactory] (main:) Setting browser value
+2022-04-09 23:06:50  [BaseTest] (main:) Title is Google
+2022-04-09 23:07:00  [BaseTest] (main:) Closing the browser
+2022-04-09 23:07:00  [BaseTest] (main:) Browser is closed successfully
+2022-04-09 23:07:00  [DriverFactory] (main:) Setting browser value chrome
+2022-04-09 23:07:02  [DriverFactory] (main:) Setting browser value
+2022-04-09 23:07:07  [BaseTest] (main:) Closing the browser
+2022-04-09 23:07:07  [BaseTest] (main:) Browser is closed successfully
+2022-04-09 23:08:45  [DriverFactory] (main:) Setting browser value chrome
+2022-04-09 23:08:48  [DriverFactory] (main:) Setting browser value
+2022-04-09 23:08:49  [BaseTest] (main:) Title is Google
+2022-04-09 23:08:59  [BaseTest] (main:) Closing the browser
+2022-04-09 23:08:59  [BaseTest] (main:) Browser is closed successfully
+2022-04-09 23:08:59  [DriverFactory] (main:) Setting browser value chrome
+2022-04-09 23:09:01  [DriverFactory] (main:) Setting browser value
+2022-04-09 23:09:05  [BaseTest] (main:) Closing the browser
+2022-04-09 23:09:05  [BaseTest] (main:) Browser is closed successfully
+2022-04-09 23:10:33  [BaseTest] (main:) Setting up the instances for properties file
+2022-04-09 23:10:33  [BaseTest] (main:) Setting up the path for log file
+2022-04-09 23:10:33  [DriverFactory] (main:) Setting browser value chrome
+2022-04-09 23:10:36  [DriverFactory] (main:) Setting browser value
+2022-04-09 23:10:37  [BaseTest] (main:) Title is Google
+2022-04-09 23:10:47  [BaseTest] (main:) Closing the browser
+2022-04-09 23:10:47  [BaseTest] (main:) Browser is closed successfully
+2022-04-09 23:10:47  [DriverFactory] (main:) Setting browser value chrome
+2022-04-09 23:10:49  [DriverFactory] (main:) Setting browser value
+2022-04-09 23:10:54  [BaseTest] (main:) Closing the browser
+2022-04-09 23:10:54  [BaseTest] (main:) Browser is closed successfully
