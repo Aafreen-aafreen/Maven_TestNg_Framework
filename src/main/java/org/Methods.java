@@ -59,7 +59,7 @@ public class Methods {
         public void explicit_wait(By locator, Duration t)
         {
             WebDriverWait wait=  new WebDriverWait(driver1, t);
-            wait.until(ExpectedConditions.visibilityOfElementLocated(locator));
+            //wait.until(ExpectedConditions.visibilityOfElementLocated(locator));
 
         }
         public void scroll_operation(String s )

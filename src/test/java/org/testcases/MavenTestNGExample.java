@@ -1,13 +1,15 @@
 package org.testcases;
 
+import Listener_Screenshot.TestAllureListener;
 import org.Methods;
 import org.apache.log4j.LogManager;
 import org.apache.log4j.Logger;
+import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
 import static org.testng.Assert.assertTrue;
 
-
+@Listeners({TestAllureListener.class})
 public class MavenTestNGExample extends BaseTest {
 
     Methods m = null;
@@ -15,7 +17,7 @@ public class MavenTestNGExample extends BaseTest {
 
 
         @Test
-        public void myTest() throws InterruptedException {
+        public void myTest_googl() throws InterruptedException {
             m = new Methods(driver);
             System.out.println("I am in my Test method");
             driver.get("https://www.google.com/");
@@ -24,12 +26,7 @@ public class MavenTestNGExample extends BaseTest {
             Thread.sleep(10000);
 
         }
-        @Test
-        public void myTest1() {
-            System.out.println("I am in my Test method 2");
-            driver.get("https://www.gmail.com/");
 
-        }
 
 
     }

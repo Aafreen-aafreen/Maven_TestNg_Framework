@@ -1,57 +1,174 @@
-
-2022-04-09 23:02:06  [DriverFactory] (main:) Setting browser value chrome
-2022-04-09 23:02:10  [DriverFactory] (main:) Setting browser value
-2022-04-09 23:02:11  [BaseTest] (main:) Title is Google
-2022-04-09 23:02:21  [BaseTest] (main:) Closing the browser
-2022-04-09 23:02:21  [BaseTest] (main:) Browser is closed successfully
-2022-04-09 23:02:21  [DriverFactory] (main:) Setting browser value chrome
-2022-04-09 23:02:23  [DriverFactory] (main:) Setting browser value
-2022-04-09 23:02:27  [BaseTest] (main:) Closing the browser
-2022-04-09 23:02:27  [BaseTest] (main:) Browser is closed successfully
-2022-04-09 23:03:56  [DriverFactory] (main:) Setting browser value chrome
-2022-04-09 23:03:59  [DriverFactory] (main:) Setting browser value
-2022-04-09 23:04:01  [BaseTest] (main:) Title is Google
-2022-04-09 23:04:11  [BaseTest] (main:) Closing the browser
-2022-04-09 23:04:11  [BaseTest] (main:) Browser is closed successfully
-2022-04-09 23:04:11  [DriverFactory] (main:) Setting browser value chrome
-2022-04-09 23:04:13  [DriverFactory] (main:) Setting browser value
-2022-04-09 23:04:17  [BaseTest] (main:) Closing the browser
-2022-04-09 23:04:17  [BaseTest] (main:) Browser is closed successfully
-2022-04-09 23:04:47  [DriverFactory] (main:) Setting browser value chrome
-2022-04-09 23:04:51  [DriverFactory] (main:) Setting browser value
-2022-04-09 23:04:52  [BaseTest] (main:) Title is Google
-2022-04-09 23:05:02  [BaseTest] (main:) Closing the browser
-2022-04-09 23:05:02  [BaseTest] (main:) Browser is closed successfully
-2022-04-09 23:05:02  [DriverFactory] (main:) Setting browser value chrome
-2022-04-09 23:05:04  [DriverFactory] (main:) Setting browser value
-2022-04-09 23:05:08  [BaseTest] (main:) Closing the browser
-2022-04-09 23:05:08  [BaseTest] (main:) Browser is closed successfully
-2022-04-09 23:06:44  [DriverFactory] (main:) Setting browser value chrome
-2022-04-09 23:06:48  [DriverFactory] (main:) Setting browser value
-2022-04-09 23:06:50  [BaseTest] (main:) Title is Google
-2022-04-09 23:07:00  [BaseTest] (main:) Closing the browser
-2022-04-09 23:07:00  [BaseTest] (main:) Browser is closed successfully
-2022-04-09 23:07:00  [DriverFactory] (main:) Setting browser value chrome
-2022-04-09 23:07:02  [DriverFactory] (main:) Setting browser value
-2022-04-09 23:07:07  [BaseTest] (main:) Closing the browser
-2022-04-09 23:07:07  [BaseTest] (main:) Browser is closed successfully
-2022-04-09 23:08:45  [DriverFactory] (main:) Setting browser value chrome
-2022-04-09 23:08:48  [DriverFactory] (main:) Setting browser value
-2022-04-09 23:08:49  [BaseTest] (main:) Title is Google
-2022-04-09 23:08:59  [BaseTest] (main:) Closing the browser
-2022-04-09 23:08:59  [BaseTest] (main:) Browser is closed successfully
-2022-04-09 23:08:59  [DriverFactory] (main:) Setting browser value chrome
-2022-04-09 23:09:01  [DriverFactory] (main:) Setting browser value
-2022-04-09 23:09:05  [BaseTest] (main:) Closing the browser
-2022-04-09 23:09:05  [BaseTest] (main:) Browser is closed successfully
-2022-04-09 23:10:33  [BaseTest] (main:) Setting up the instances for properties file
-2022-04-09 23:10:33  [BaseTest] (main:) Setting up the path for log file
-2022-04-09 23:10:33  [DriverFactory] (main:) Setting browser value chrome
-2022-04-09 23:10:36  [DriverFactory] (main:) Setting browser value
-2022-04-09 23:10:37  [BaseTest] (main:) Title is Google
-2022-04-09 23:10:47  [BaseTest] (main:) Closing the browser
-2022-04-09 23:10:47  [BaseTest] (main:) Browser is closed successfully
-2022-04-09 23:10:47  [DriverFactory] (main:) Setting browser value chrome
-2022-04-09 23:10:49  [DriverFactory] (main:) Setting browser value
-2022-04-09 23:10:54  [BaseTest] (main:) Closing the browser
-2022-04-09 23:10:54  [BaseTest] (main:) Browser is closed successfully
+2022-04-11 13:52:15  [DriverFactory] (TestNG-test=Test Automation-1:) Setting browser value chrome
+2022-04-11 13:52:15  [DriverFactory] (TestNG-test=Test Automation-2:) Setting browser value chrome
+2022-04-11 13:52:15  [DriverFactory] (TestNG-test=Test Automation-2:) in chrome driver section...
+2022-04-11 13:52:15  [DriverFactory] (TestNG-test=Test Automation-1:) in chrome driver section...
+2022-04-11 13:52:20  [DriverFactory] (TestNG-test=Test Automation-2:) Setting browser value
+2022-04-11 13:52:20  [DriverFactory] (TestNG-test=Test Automation-1:) Setting browser value
+2022-04-11 13:52:20  [BaseTest] (TestNG-test=Test Automation-2:) Closing the browser
+2022-04-11 13:52:20  [BaseTest] (TestNG-test=Test Automation-1:) Closing the browser
+2022-04-11 13:59:24  [DriverFactory] (TestNG-test=Test Automation-2:) Setting browser value chrome
+2022-04-11 13:59:24  [DriverFactory] (TestNG-test=Test Automation-1:) Setting browser value chrome
+2022-04-11 13:59:24  [DriverFactory] (TestNG-test=Test Automation-2:) in chrome driver section...
+2022-04-11 13:59:24  [DriverFactory] (TestNG-test=Test Automation-1:) in chrome driver section...
+2022-04-11 13:59:29  [DriverFactory] (TestNG-test=Test Automation-1:) Setting browser value
+2022-04-11 13:59:29  [DriverFactory] (TestNG-test=Test Automation-2:) Setting browser value
+2022-04-11 13:59:29  [BaseTest] (TestNG-test=Test Automation-2:) Closing the browser
+2022-04-11 13:59:29  [BaseTest] (TestNG-test=Test Automation-1:) Closing the browser
+2022-04-11 14:01:19  [DriverFactory] (TestNG-test=Test Automation-1:) Setting browser value chrome
+2022-04-11 14:01:19  [DriverFactory] (TestNG-test=Test Automation-1:) in chrome driver section...
+2022-04-11 14:01:19  [DriverFactory] (TestNG-test=Test Automation-2:) Setting browser value chrome
+2022-04-11 14:01:19  [DriverFactory] (TestNG-test=Test Automation-2:) in chrome driver section...
+2022-04-11 14:01:24  [DriverFactory] (TestNG-test=Test Automation-2:) Setting browser value
+2022-04-11 14:01:24  [DriverFactory] (TestNG-test=Test Automation-1:) Setting browser value
+2022-04-11 14:01:24  [BaseTest] (TestNG-test=Test Automation-2:) Closing the browser
+2022-04-11 14:01:24  [BaseTest] (TestNG-test=Test Automation-1:) Closing the browser
+2022-04-11 14:07:10  [DriverFactory] (TestNG-test=Test Automation-2:) Setting browser value chrome
+2022-04-11 14:07:10  [DriverFactory] (TestNG-test=Test Automation-1:) Setting browser value chrome
+2022-04-11 14:07:10  [DriverFactory] (TestNG-test=Test Automation-2:) in chrome driver section...
+2022-04-11 14:07:10  [DriverFactory] (TestNG-test=Test Automation-1:) in chrome driver section...
+2022-04-11 14:07:15  [DriverFactory] (TestNG-test=Test Automation-2:) Setting browser value
+2022-04-11 14:07:15  [DriverFactory] (TestNG-test=Test Automation-1:) Setting browser value
+2022-04-11 14:07:15  [BaseTest] (TestNG-test=Test Automation-1:) Closing the browser
+2022-04-11 14:07:15  [BaseTest] (TestNG-test=Test Automation-2:) Closing the browser
+2022-04-11 14:08:34  [DriverFactory] (TestNG-test=Test Automation-1:) Setting browser value chrome
+2022-04-11 14:08:34  [DriverFactory] (TestNG-test=Test Automation-2:) Setting browser value chrome
+2022-04-11 14:08:34  [DriverFactory] (TestNG-test=Test Automation-1:) in chrome driver section...
+2022-04-11 14:08:34  [DriverFactory] (TestNG-test=Test Automation-2:) in chrome driver section...
+2022-04-11 14:08:38  [DriverFactory] (TestNG-test=Test Automation-2:) Setting browser value
+2022-04-11 14:08:38  [DriverFactory] (TestNG-test=Test Automation-1:) Setting browser value
+2022-04-11 14:08:39  [BaseTest] (TestNG-test=Test Automation-2:) Closing the browser
+2022-04-11 14:08:39  [BaseTest] (TestNG-test=Test Automation-1:) Closing the browser
+2022-04-11 14:10:53  [DriverFactory] (TestNG-test=Test Automation-2:) Setting browser value chrome
+2022-04-11 14:10:53  [DriverFactory] (TestNG-test=Test Automation-2:) in chrome driver section...
+2022-04-11 14:10:53  [DriverFactory] (TestNG-test=Test Automation-1:) Setting browser value chrome
+2022-04-11 14:10:53  [DriverFactory] (TestNG-test=Test Automation-1:) in chrome driver section...
+2022-04-11 14:10:58  [DriverFactory] (TestNG-test=Test Automation-2:) Setting browser value
+2022-04-11 14:10:58  [DriverFactory] (TestNG-test=Test Automation-1:) Setting browser value
+2022-04-11 14:10:58  [BaseTest] (TestNG-test=Test Automation-2:) Closing the browser
+2022-04-11 14:10:58  [BaseTest] (TestNG-test=Test Automation-1:) Closing the browser
+2022-04-11 14:13:43  [DriverFactory] (TestNG-test=Test Automation-1:) Setting browser value chrome
+2022-04-11 14:13:43  [DriverFactory] (TestNG-test=Test Automation-1:) in chrome driver section...
+2022-04-11 14:13:43  [DriverFactory] (TestNG-test=Test Automation-2:) Setting browser value chrome
+2022-04-11 14:13:43  [DriverFactory] (TestNG-test=Test Automation-2:) in chrome driver section...
+2022-04-11 14:13:48  [DriverFactory] (TestNG-test=Test Automation-2:) Setting browser value
+2022-04-11 14:13:48  [DriverFactory] (TestNG-test=Test Automation-1:) Setting browser value
+2022-04-11 14:13:49  [BaseTest] (TestNG-test=Test Automation-1:) Closing the browser
+2022-04-11 14:13:49  [BaseTest] (TestNG-test=Test Automation-2:) Closing the browser
+2022-04-11 14:19:12  [DriverFactory] (TestNG-test=Test Automation-2:) Setting browser value chrome
+2022-04-11 14:19:12  [DriverFactory] (TestNG-test=Test Automation-1:) Setting browser value chrome
+2022-04-11 14:19:12  [DriverFactory] (TestNG-test=Test Automation-2:) in chrome driver section...
+2022-04-11 14:19:12  [DriverFactory] (TestNG-test=Test Automation-1:) in chrome driver section...
+2022-04-11 14:19:16  [DriverFactory] (TestNG-test=Test Automation-2:) Setting browser value
+2022-04-11 14:19:16  [DriverFactory] (TestNG-test=Test Automation-1:) Setting browser value
+2022-04-11 14:19:16  [BaseTest] (TestNG-test=Test Automation-1:) Closing the browser
+2022-04-11 14:19:16  [BaseTest] (TestNG-test=Test Automation-2:) Closing the browser
+2022-04-11 14:20:42  [DriverFactory] (TestNG-test=Test Automation-2:) Setting browser value chrome
+2022-04-11 14:20:42  [DriverFactory] (TestNG-test=Test Automation-1:) Setting browser value chrome
+2022-04-11 14:20:42  [DriverFactory] (TestNG-test=Test Automation-2:) in chrome driver section...
+2022-04-11 14:20:42  [DriverFactory] (TestNG-test=Test Automation-1:) in chrome driver section...
+2022-04-11 14:20:47  [DriverFactory] (TestNG-test=Test Automation-1:) Setting browser value
+2022-04-11 14:20:47  [DriverFactory] (TestNG-test=Test Automation-2:) Setting browser value
+2022-04-11 14:20:47  [BaseTest] (TestNG-test=Test Automation-1:) Closing the browser
+2022-04-11 14:20:47  [BaseTest] (TestNG-test=Test Automation-2:) Closing the browser
+2022-04-11 14:21:54  [DriverFactory] (TestNG-test=Test Automation-2:) Setting browser value chrome
+2022-04-11 14:21:54  [DriverFactory] (TestNG-test=Test Automation-2:) in chrome driver section...
+2022-04-11 14:21:54  [DriverFactory] (TestNG-test=Test Automation-1:) Setting browser value chrome
+2022-04-11 14:21:54  [DriverFactory] (TestNG-test=Test Automation-1:) in chrome driver section...
+2022-04-11 14:21:59  [DriverFactory] (TestNG-test=Test Automation-2:) Setting browser value
+2022-04-11 14:21:59  [DriverFactory] (TestNG-test=Test Automation-1:) Setting browser value
+2022-04-11 14:21:59  [BaseTest] (TestNG-test=Test Automation-1:) Closing the browser
+2022-04-11 14:21:59  [BaseTest] (TestNG-test=Test Automation-2:) Closing the browser
+2022-04-11 14:23:49  [DriverFactory] (TestNG-test=Test Automation-2:) Setting browser value chrome
+2022-04-11 14:23:49  [DriverFactory] (TestNG-test=Test Automation-1:) Setting browser value chrome
+2022-04-11 14:23:49  [DriverFactory] (TestNG-test=Test Automation-2:) in chrome driver section...
+2022-04-11 14:23:49  [DriverFactory] (TestNG-test=Test Automation-1:) in chrome driver section...
+2022-04-11 14:23:54  [DriverFactory] (TestNG-test=Test Automation-2:) Setting browser value
+2022-04-11 14:23:54  [DriverFactory] (TestNG-test=Test Automation-1:) Setting browser value
+2022-04-11 14:23:54  [BaseTest] (TestNG-test=Test Automation-2:) Closing the browser
+2022-04-11 14:23:54  [BaseTest] (TestNG-test=Test Automation-1:) Closing the browser
+2022-04-11 14:25:14  [DriverFactory] (TestNG-test=Test Automation-1:) Setting browser value chrome
+2022-04-11 14:25:14  [DriverFactory] (TestNG-test=Test Automation-2:) Setting browser value chrome
+2022-04-11 14:25:14  [DriverFactory] (TestNG-test=Test Automation-1:) in chrome driver section...
+2022-04-11 14:25:14  [DriverFactory] (TestNG-test=Test Automation-2:) in chrome driver section...
+2022-04-11 14:25:19  [DriverFactory] (TestNG-test=Test Automation-2:) Setting browser value
+2022-04-11 14:25:19  [DriverFactory] (TestNG-test=Test Automation-1:) Setting browser value
+2022-04-11 14:25:19  [BaseTest] (TestNG-test=Test Automation-2:) Closing the browser
+2022-04-11 14:25:19  [BaseTest] (TestNG-test=Test Automation-1:) Closing the browser
+2022-04-11 14:27:31  [DriverFactory] (TestNG-test=Test Automation-2:) Setting browser value chrome
+2022-04-11 14:27:31  [DriverFactory] (TestNG-test=Test Automation-1:) Setting browser value chrome
+2022-04-11 14:27:31  [DriverFactory] (TestNG-test=Test Automation-2:) in chrome driver section...
+2022-04-11 14:27:31  [DriverFactory] (TestNG-test=Test Automation-1:) in chrome driver section...
+2022-04-11 14:27:35  [DriverFactory] (TestNG-test=Test Automation-1:) Setting browser value
+2022-04-11 14:27:35  [DriverFactory] (TestNG-test=Test Automation-2:) Setting browser value
+2022-04-11 14:27:37  [BaseTest] (TestNG-test=Test Automation-1:) Title is Google
+2022-04-11 14:27:37  [BaseTest] (TestNG-test=Test Automation-2:) Closing the browser
+2022-04-11 14:27:37  [BaseTest] (TestNG-test=Test Automation-2:) Browser is closed successfully
+2022-04-11 14:27:47  [BaseTest] (TestNG-test=Test Automation-1:) Closing the browser
+2022-04-11 14:27:47  [BaseTest] (TestNG-test=Test Automation-1:) Browser is closed successfully
+2022-04-11 14:31:36  [DriverFactory] (TestNG-test=Test Automation-1:) Setting browser value chrome
+2022-04-11 14:31:36  [DriverFactory] (TestNG-test=Test Automation-2:) Setting browser value chrome
+2022-04-11 14:31:36  [DriverFactory] (TestNG-test=Test Automation-1:) in chrome driver section...
+2022-04-11 14:31:36  [DriverFactory] (TestNG-test=Test Automation-2:) in chrome driver section...
+2022-04-11 14:31:40  [DriverFactory] (TestNG-test=Test Automation-1:) Setting browser value
+2022-04-11 14:31:40  [DriverFactory] (TestNG-test=Test Automation-2:) Setting browser value
+2022-04-11 14:31:41  [BaseTest] (TestNG-test=Test Automation-1:) Title is Google
+2022-04-11 14:31:42  [BaseTest] (TestNG-test=Test Automation-2:) Closing the browser
+2022-04-11 14:31:42  [BaseTest] (TestNG-test=Test Automation-2:) Browser is closed successfully
+2022-04-11 14:31:51  [BaseTest] (TestNG-test=Test Automation-1:) Closing the browser
+2022-04-11 14:31:51  [BaseTest] (TestNG-test=Test Automation-1:) Browser is closed successfully
+2022-04-11 14:33:55  [DriverFactory] (TestNG-test=Test Automation-1:) Setting browser value chrome
+2022-04-11 14:33:55  [DriverFactory] (TestNG-test=Test Automation-2:) Setting browser value chrome
+2022-04-11 14:33:55  [DriverFactory] (TestNG-test=Test Automation-1:) in chrome driver section...
+2022-04-11 14:33:55  [DriverFactory] (TestNG-test=Test Automation-2:) in chrome driver section...
+2022-04-11 14:33:59  [DriverFactory] (TestNG-test=Test Automation-2:) Setting browser value
+2022-04-11 14:33:59  [DriverFactory] (TestNG-test=Test Automation-1:) Setting browser value
+2022-04-11 14:34:01  [BaseTest] (TestNG-test=Test Automation-1:) Title is Google
+2022-04-11 14:34:02  [BaseTest] (TestNG-test=Test Automation-2:) Closing the browser
+2022-04-11 14:34:02  [BaseTest] (TestNG-test=Test Automation-2:) Browser is closed successfully
+2022-04-11 14:34:11  [BaseTest] (TestNG-test=Test Automation-1:) Closing the browser
+2022-04-11 14:34:11  [BaseTest] (TestNG-test=Test Automation-1:) Browser is closed successfully
+2022-04-11 14:36:30  [DriverFactory] (TestNG-test=Test Automation-2:) Setting browser value chrome
+2022-04-11 14:36:30  [DriverFactory] (TestNG-test=Test Automation-2:) in chrome driver section...
+2022-04-11 14:36:30  [DriverFactory] (TestNG-test=Test Automation-1:) Setting browser value chrome
+2022-04-11 14:36:30  [DriverFactory] (TestNG-test=Test Automation-1:) in chrome driver section...
+2022-04-11 14:36:34  [DriverFactory] (TestNG-test=Test Automation-1:) Setting browser value
+2022-04-11 14:36:34  [DriverFactory] (TestNG-test=Test Automation-2:) Setting browser value
+2022-04-11 14:36:36  [BaseTest] (TestNG-test=Test Automation-1:) Title is Google
+2022-04-11 14:36:36  [BaseTest] (TestNG-test=Test Automation-2:) Closing the browser
+2022-04-11 14:36:37  [BaseTest] (TestNG-test=Test Automation-2:) Browser is closed successfully
+2022-04-11 14:36:46  [BaseTest] (TestNG-test=Test Automation-1:) Closing the browser
+2022-04-11 14:36:46  [BaseTest] (TestNG-test=Test Automation-1:) Browser is closed successfully
+2022-04-11 14:43:02  [DriverFactory] (TestNG-test=Test Automation-1:) Setting browser value chrome
+2022-04-11 14:43:02  [DriverFactory] (TestNG-test=Test Automation-1:) in chrome driver section...
+2022-04-11 14:43:02  [DriverFactory] (TestNG-test=Test Automation-2:) Setting browser value chrome
+2022-04-11 14:43:02  [DriverFactory] (TestNG-test=Test Automation-2:) in chrome driver section...
+2022-04-11 14:43:07  [DriverFactory] (TestNG-test=Test Automation-2:) Setting browser value
+2022-04-11 14:43:07  [DriverFactory] (TestNG-test=Test Automation-1:) Setting browser value
+2022-04-11 14:43:08  [BaseTest] (TestNG-test=Test Automation-1:) Title is Google
+2022-04-11 14:43:09  [BaseTest] (TestNG-test=Test Automation-2:) Closing the browser
+2022-04-11 14:43:09  [BaseTest] (TestNG-test=Test Automation-2:) Browser is closed successfully
+2022-04-11 14:43:09  [DriverFactory] (TestNG-test=Test Automation-2:) Setting browser value chrome
+2022-04-11 14:43:09  [DriverFactory] (TestNG-test=Test Automation-2:) in chrome driver section...
+2022-04-11 14:43:11  [DriverFactory] (TestNG-test=Test Automation-2:) Setting browser value
+2022-04-11 14:43:18  [BaseTest] (TestNG-test=Test Automation-2:) Title is Gmail
+2022-04-11 14:43:18  [BaseTest] (TestNG-test=Test Automation-1:) Closing the browser
+2022-04-11 14:43:18  [BaseTest] (TestNG-test=Test Automation-1:) Browser is closed successfully
+2022-04-11 14:43:28  [BaseTest] (TestNG-test=Test Automation-2:) Closing the browser
+2022-04-11 14:43:28  [BaseTest] (TestNG-test=Test Automation-2:) Browser is closed successfully
+2022-04-11 14:46:50  [DriverFactory] (TestNG-test=Test Automation-1:) Setting browser value chrome
+2022-04-11 14:46:50  [DriverFactory] (TestNG-test=Test Automation-2:) Setting browser value chrome
+2022-04-11 14:46:50  [DriverFactory] (TestNG-test=Test Automation-2:) in chrome driver section...
+2022-04-11 14:46:50  [DriverFactory] (TestNG-test=Test Automation-1:) in chrome driver section...
+2022-04-11 14:46:55  [DriverFactory] (TestNG-test=Test Automation-1:) Setting browser value
+2022-04-11 14:46:55  [DriverFactory] (TestNG-test=Test Automation-2:) Setting browser value
+2022-04-11 14:46:56  [BaseTest] (TestNG-test=Test Automation-1:) Title is Google
+2022-04-11 14:46:57  [BaseTest] (TestNG-test=Test Automation-2:) Title is Facebook – log in or sign up
+2022-04-11 14:47:06  [BaseTest] (TestNG-test=Test Automation-1:) Closing the browser
+2022-04-11 14:47:07  [BaseTest] (TestNG-test=Test Automation-1:) Browser is closed successfully
+2022-04-11 14:47:07  [BaseTest] (TestNG-test=Test Automation-2:) Closing the browser
+2022-04-11 14:47:07  [BaseTest] (TestNG-test=Test Automation-2:) Browser is closed successfully
+2022-04-11 14:47:07  [DriverFactory] (TestNG-test=Test Automation-2:) Setting browser value chrome
+2022-04-11 14:47:07  [DriverFactory] (TestNG-test=Test Automation-2:) in chrome driver section...
+2022-04-11 14:47:09  [DriverFactory] (TestNG-test=Test Automation-2:) Setting browser value
+2022-04-11 14:47:14  [BaseTest] (TestNG-test=Test Automation-2:) Title is Gmail
+2022-04-11 14:47:24  [BaseTest] (TestNG-test=Test Automation-2:) Closing the browser

@@ -8,15 +8,13 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.safari.SafariDriver;
-import org.apache.log4j.LogManager;
-import org.apache.log4j.Logger;
-import org.apache.log4j.xml.DOMConfigurator;
 
-public class DriverManager {
+public class DriverInitializer {
 
-    WebDriver driver;
+    public WebDriver driver;
     public static ThreadLocal<WebDriver> tlDriver = new ThreadLocal<WebDriver>();
     static final Logger logger = LogManager.getLogger("DriverFactory");
+    public static DriverInitializer d = new DriverInitializer();
 
 
     public  WebDriver init_driver(String browser) {
@@ -24,6 +22,8 @@ public class DriverManager {
         try {
             logger.info("Setting browser value" + " " + browser);
             if (browser.equals("chrome")) {
+                System.out.println("in start driver chrome");
+                logger.info("in chrome driver section...");
                 WebDriverManager.chromedriver().setup();
                 tlDriver.set(new ChromeDriver());
                 logger.info("Setting browser value");
@@ -41,9 +41,6 @@ public class DriverManager {
             else {
                 logger.info("Failed setting browser value" + " " + browser);
             }
-            driver = tlDriver.get();
-            driver.manage().deleteAllCookies();
-            driver.manage().window().maximize();
 
         }
         catch (Exception e) {
@@ -51,8 +48,11 @@ public class DriverManager {
             logger.error(e);
             assert false;
         }
-        return driver;
+        return getDriver();
 
     }
-
+    public static synchronized WebDriver getDriver() {
+        System.out.println("getttt"+tlDriver.get());
+        return tlDriver.get();
+    }
 }
